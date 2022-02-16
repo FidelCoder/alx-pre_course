@@ -1,15 +1,3 @@
-__Created this file__
-_thisisemphasis_
-
-[1]: http://example.com/ "Title"
-[2]: http://example.org/ "Title"
-
-I have more [^1] to say up here.
-
-
-
-
-
 Hello guys I am so glad to be part of the team and I am going to smart to ensure that I manage through.
 Thank you for the programme
 
