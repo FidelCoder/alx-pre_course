@@ -1,0 +1,8 @@
+git init                     => to initialize
+git add .                    => to add files created
+git status                   => checks the status
+git commit -m 'message'      => commits the changes made
+git push                     => pushes the changes to github repo
+git pull                     => checks if changes are upto date
+git checkout [branchname]    => changes to the branch named
+git merge                    => merge branches
