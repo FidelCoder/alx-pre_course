@@ -1,4 +1,4 @@
-git init                     => to initialize
+git init                     => it initializes
 git add .                    => to add files created
 git status                   => checks the status
 git commit -m 'message'      => commits the changes made
